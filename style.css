@@ -1,0 +1,44 @@
+body{
+    background: black;
+}
+
+.post{
+    background: white;
+    height: 600px;
+    width: 400px;
+    margin: auto;
+    padding: auto;
+}
+
+.header{
+    height: 40px;
+    margin: 0;
+    padding: 10px;
+    width: 380px;
+}
+
+
+.fa-html5{
+    font-size: 32px;
+    float: left;
+    margin-right: 10px;
+    width: 20px;
+    text-align: center;
+}
+
+.text-html{
+    float: left;
+    font-size: 15px;
+    width: 60px;
+    margin-top: 0;
+}
+
+.fa-ellipsis-v{
+    float: right;
+    font-size: 25px;
+}
+
+.image{
+    margin: 0;
+    padding: 0;
+}
