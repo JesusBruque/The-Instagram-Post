@@ -42,3 +42,36 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.fa-heart{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.fa-comment{
+    font-size: 30px;
+}
+
+.fa-paper-plane{
+    font-size: 30px;
+}
+
+.fa-bookmark{
+    font-size: 30px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.p-first{
+    font-size: 15px;
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.p-second{
+    font-size: 15px;
+    margin: 10px;
+    padding-bottom: 10px;
+}
